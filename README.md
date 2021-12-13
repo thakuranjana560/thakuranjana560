@@ -1,6 +1,7 @@
 # Anjana Thakur
 
 👋 Hi, I'm Anjana Thakur. I'm a Senior Front End Developer at [Digitalease It Solutions]. 
+
 Currently I am working  at [Prospect Tennis Platform ](http://www.prospecttennis.com/) where I developed MVP application for College Tennis Recruiting used by students for best match college with there sports develpoment goals.
 
 ## About Me
