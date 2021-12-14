@@ -6,7 +6,7 @@ Currently I am working  at [Prospect Tennis Platform ](http://www.prospecttennis
 
 ## About Me
 
-- 🔭 I’m currently working on: Getting my [Google UX Design Certificate](https://grow.google/uxdesign/) so I can better understand design as a developer.
+- 🔭 I’m currently working on: Getting my [Google UX Design Certificate](https://grow.google/uxdesign/) so I can better understand design as a developer
       and building 50 Projects for React and the Static Web.
 - 🌱 I’m currently learning: How to build Native apps with React native.
 - 🤔 What I want to learn next: Improving my ASP.Net Blazor Learning with Mudblazor library.
